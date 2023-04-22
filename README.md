@@ -6,23 +6,23 @@ By downloading, installing, or using the CompTIA Acronyms App, you agree to be b
 
 1. Definitions 
 
-1.1. "App" means the Acronyms Learning App, which is a mobile application that allows users to learn CompTIA acronyms. 
+ 1.1. "App" means the Acronyms Learning App, which is a mobile application that allows users to learn CompTIA acronyms. 
 
-1.2. "Content" means all text, graphics, images, logos, audio, video, software, and other materials that are part of the App. 
+ 1.2. "Content" means all text, graphics, images, logos, audio, video, software, and other materials that are part of the App. 
 
-1.3. "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, and other intellectual property rights of any kind, whether registered or unregistered and all applications for such rights. 
+ 1.3. "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, and other intellectual property rights of any kind, whether registered or unregistered and all applications for such rights. 
 
-1.4. "User" means any individual who downloads, installs, or uses the App. 
+ 1.4. "User" means any individual who downloads, installs, or uses the App. 
 
 2. License 
 
-2.1. Subject to these Terms and Conditions, we grant you a non-exclusive, non-transferable, and limited license to download, install, and use the App on a single device. 
+ 2.1. Subject to these Terms and Conditions, we grant you a non-exclusive, non-transferable, and limited license to download, install, and use the App on a single device. 
 
-2.2. You may not use the App for any commercial purpose. 
+ 2.2. You may not use the App for any commercial purpose. 
 
-2.3. You may not modify, adapt, translate, or create derivative works of the App. 
+ 2.3. You may not modify, adapt, translate, or create derivative works of the App. 
 
-2.4. You may not reverse engineer, decompile, or disassemble the App. 
+ 2.4. You may not reverse engineer, decompile, or disassemble the App. 
 
 3. Intellectual Property Rights 
 
