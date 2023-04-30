@@ -62,7 +62,7 @@ By downloading, installing, or using the CompTIA Acronyms App, you agree to be b
 
 ## 7. Contact Us 
 
-If you have any questions about these Terms and Conditions, please contact us at: info@sleento.com 
+If you have any questions about these Terms and Conditions, please contact us at: info@sleento.com. 
 
 CompTIA Acronyms App 
 
